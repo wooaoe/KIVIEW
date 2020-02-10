@@ -19,7 +19,7 @@ public class CafeBoardVo {
 		this.cafe_no = cafe_no;
 		this.title = title;
 		this.admin = admin;
-		this.intro = intro;
+		this.intro = intro;       
 		this.thumb = thumb;
 		this.background = background;
 		this.restriction = restriction;
